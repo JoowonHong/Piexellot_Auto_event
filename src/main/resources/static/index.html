@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4036957011544545"
+     crossorigin="anonymous"></script>
+     	
+    <meta charset="UTF-8">
+    <title>Index</title>
+    <style>
+        body {
+            display: flex;
+        }
+        #menu {
+            flex: 1;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+        #view {
+            flex: 3;
+            padding: 20px;
+        }
+        #menu button {
+            display: block;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+	<div id="menu">
+	    <button onclick="showView('1')">이것저것</button>
+	    <button onclick="showView('2')">2</button>
+	    <button onclick="showView('3')">3</button>
+	</div>
+	<div id="view">
+	    <!-- 각 콘텐츠 컨테이너 -->
+	    <div id="content1" class="content"></div>
+	    <div id="content2" class="content" style="display: none;"></div>
+	    <div id="content3" class="content" style="display: none;"></div>
+	</div>
+
+	<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+	<script>
+	    var contentLoaded = { "1": false, "2": false, "3": false };
+	    
+        window.onload = function() {
+    	    showView('1'); // 페이지 로드 시 1번 메뉴의 콘텐츠 로드 및 표시
+	    };
+
+	
+	    function loadContentInitially(menuNumber, fileName) {
+	        if (!contentLoaded[menuNumber]) {
+	            // 해당 콘텐츠를 최초 1회 로드합니다.
+	            $.get(fileName, function(data) {
+	                $("#content" + menuNumber).html(data);
+	                contentLoaded[menuNumber] = true; // 로드 완료 표시
+	                toggleContent(menuNumber); // 로드된 콘텐츠를 화면에 표시
+	            });
+	        } else {
+	            toggleContent(menuNumber); // 콘텐츠 전환만 처리
+	        }
+	    }
+	
+	    function toggleContent(menuNumber) {
+	        $(".content").hide(); // 모든 콘텐츠를 숨깁니다.
+	        $("#content" + menuNumber).show(); // 선택된 콘텐츠만 표시합니다.
+	    }
+	
+	    function showView(menuNumber) {
+	        var fileName = "";
+	        switch(menuNumber) {
+	            case '1':
+	                fileName = "main.html";
+	                break;
+	            case '2':
+	                fileName = "2.html";
+	                break;
+	            case '3':
+	                fileName = "3.html";
+	                break;
+	        }
+	        loadContentInitially(menuNumber, fileName);
+	    }
+	</script>
+
+
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script type="text/javascript" src="index.js" crossorigin="anonymous"></script>
+</body>
+</html>

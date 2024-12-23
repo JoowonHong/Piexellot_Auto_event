@@ -1,0 +1,53 @@
+    <h1>Pixellot 1219</h1>
+    <div id="contents">
+    </div>
+    <form>
+        <br><br>
+        <button type="button" onclick="btn_click_login()">API 사용 로그인</button>
+        <label for="textInput" id="text_login" ></label>
+        <br><br>
+    </form>
+    <form>
+        <button type="button" onclick="btn_click_event_name()">Event 가져오기</button>
+        <label for="textInput" id="text_event_name" ></label>
+		<select id="myComboBox" onchange="cb_Selected()">
+		</select>
+    </form>
+    <form>
+        <label for="textInput">eventID 입력 : </label>
+        <input type="text" id="textInput_eventID" name="textInput" placeholder="eventID 입력">
+        <br><br>
+    </form>
+    <form>
+        <label for="textInput">http://ystcorp07296.cafe24.com/web2.jsp?id=yst7</label>
+    </form>
+    <form>
+        <label for="textInput">overlay URL 입력 : </label>
+        <input type="text" id="textInput_overlayURL" name="textInput" placeholder="overlayURL 입력">
+    </form>
+    <form>
+        <button type="button" onclick="btn_click_overlay()">overlay 적용</button>
+        <label for="textInput" id="text_overlay" ></label>
+    </form>
+    <form>
+        <br>
+        <br>
+        <button type="button" onclick="btn_click_clubs()">클럽정보</button>
+        <label for="textInput" id="text_clubs" ></label>
+    </form>
+    <form>
+        <br><br>
+        <button type="button" onclick="btn_click_event_play()">live 볼륨확인</button>
+        <label for="textInput" id="text_event" ></label>
+    </form>
+    
+    <form>
+        <br><br>
+        <button type="button" onclick="btn_click_test()">테스트</button>
+        <label for="textInput" id="text_test" ></label>
+    </form>
+
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script type="text/javascript" src="index.js" crossorigin="anonymous"></script>
+
+<div id="video-container"></div>

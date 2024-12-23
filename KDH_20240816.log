@@ -1,0 +1,72 @@
+15:15:01
+U6 Elite Team : Training @ DO Arena 1MK
+2024-08-16T07:30:00.000Z
+Error: 400 Bad Request: "{"jse_shortmsg":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be260173f9e19483527c7f","jse_info":{},"message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be260173f9e19483527c7f","body":{"code":"InvalidContent","message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be260173f9e19483527c7f"},"restCode":"InvalidContent"}"
+15:15:01
+U8 Elite Team : Training @ DO Arena 163
+2024-08-16T07:30:00.000Z
+Error: 400 Bad Request: "{"jse_shortmsg":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2601d7b7ad3ee8f26ef2","jse_info":{},"message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2601d7b7ad3ee8f26ef2","body":{"code":"InvalidContent","message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2601d7b7ad3ee8f26ef2"},"restCode":"InvalidContent"}"
+15:15:01
+U9 Development : Training @ DO Arena 1MK
+2024-08-16T08:30:00.000Z
+Error: 400 Bad Request: "{"jse_shortmsg":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2601a0c430a23774128b","jse_info":{},"message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2601a0c430a23774128b","body":{"code":"InvalidContent","message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2601a0c430a23774128b"},"restCode":"InvalidContent"}"
+15:15:02
+U10 Elite Team : Training @ DO Arena 163
+2024-08-16T08:50:00.000Z
+Error: 400 Bad Request: "{"jse_shortmsg":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602165da894fa61b0c1","jse_info":{},"message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602165da894fa61b0c1","body":{"code":"InvalidContent","message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602165da894fa61b0c1"},"restCode":"InvalidContent"}"
+15:15:02
+U11 Development : Training @ DO Arena 1MK
+2024-08-16T09:30:00.000Z
+Error: 400 Bad Request: "{"jse_shortmsg":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602a0c430a23774128c","jse_info":{},"message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602a0c430a23774128c","body":{"code":"InvalidContent","message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602a0c430a23774128c"},"restCode":"InvalidContent"}"
+15:15:02
+Girls Development : Training @ DO Arena 163
+2024-08-16T10:15:00.000Z
+Error: 400 Bad Request: "{"jse_shortmsg":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602015aab2d75374575","jse_info":{},"message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602015aab2d75374575","body":{"code":"InvalidContent","message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602015aab2d75374575"},"restCode":"InvalidContent"}"
+15:15:02
+U13 Development : Training @ DO Arena 1MK
+2024-08-16T10:30:00.000Z
+Error: 400 Bad Request: "{"jse_shortmsg":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602015aab2d75374576","jse_info":{},"message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602015aab2d75374576","body":{"code":"InvalidContent","message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602015aab2d75374576"},"restCode":"InvalidContent"}"
+15:15:03
+yww test1
+2024-08-16T11:40:00.000Z
+200 OK{"_id":"66beee667dcc3475deaaea9a","eventName":"yww test1","start$date":"2024-08-16T11:40:00Z","end$date":"2024-08-16T11:50:00Z","status":"active","venue":{"_id":"633acc8f2d4c96fa391ec7c6"},"vas":{},"plugins":{}}
+15:15:03
+yww test0
+2024-08-16T15:10:00.000Z
+200 OK{"_id":"66beee676b1d9208ba5c7bfd","eventName":"yww test0","start$date":"2024-08-16T15:10:00Z","end$date":"2024-08-16T15:20:00Z","status":"active","venue":{"_id":"65f2a97f177cf6308f73d0c2"},"vas":{},"plugins":{}}
+15:20:00
+U6 Elite Team : Training @ DO Arena 1MK
+2024-08-16T07:30:00.000Z
+Error: 400 Bad Request: "{"jse_shortmsg":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be260173f9e19483527c7f","jse_info":{},"message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be260173f9e19483527c7f","body":{"code":"InvalidContent","message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be260173f9e19483527c7f"},"restCode":"InvalidContent"}"
+15:20:01
+U8 Elite Team : Training @ DO Arena 163
+2024-08-16T07:30:00.000Z
+Error: 400 Bad Request: "{"jse_shortmsg":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2601d7b7ad3ee8f26ef2","jse_info":{},"message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2601d7b7ad3ee8f26ef2","body":{"code":"InvalidContent","message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2601d7b7ad3ee8f26ef2"},"restCode":"InvalidContent"}"
+15:20:01
+U9 Development : Training @ DO Arena 1MK
+2024-08-16T08:30:00.000Z
+Error: 400 Bad Request: "{"jse_shortmsg":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2601a0c430a23774128b","jse_info":{},"message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2601a0c430a23774128b","body":{"code":"InvalidContent","message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2601a0c430a23774128b"},"restCode":"InvalidContent"}"
+15:20:01
+U10 Elite Team : Training @ DO Arena 163
+2024-08-16T08:50:00.000Z
+Error: 400 Bad Request: "{"jse_shortmsg":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602165da894fa61b0c1","jse_info":{},"message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602165da894fa61b0c1","body":{"code":"InvalidContent","message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602165da894fa61b0c1"},"restCode":"InvalidContent"}"
+15:20:02
+U11 Development : Training @ DO Arena 1MK
+2024-08-16T09:30:00.000Z
+Error: 400 Bad Request: "{"jse_shortmsg":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602a0c430a23774128c","jse_info":{},"message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602a0c430a23774128c","body":{"code":"InvalidContent","message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602a0c430a23774128c"},"restCode":"InvalidContent"}"
+15:20:02
+Girls Development : Training @ DO Arena 163
+2024-08-16T10:15:00.000Z
+Error: 400 Bad Request: "{"jse_shortmsg":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602015aab2d75374575","jse_info":{},"message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602015aab2d75374575","body":{"code":"InvalidContent","message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602015aab2d75374575"},"restCode":"InvalidContent"}"
+15:20:02
+U13 Development : Training @ DO Arena 1MK
+2024-08-16T10:30:00.000Z
+Error: 400 Bad Request: "{"jse_shortmsg":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602015aab2d75374576","jse_info":{},"message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602015aab2d75374576","body":{"code":"InvalidContent","message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66be2602015aab2d75374576"},"restCode":"InvalidContent"}"
+15:20:02
+yww test1
+2024-08-16T11:40:00.000Z
+Error: 400 Bad Request: "{"jse_shortmsg":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66beee667dcc3475deaaea9a","jse_info":{},"message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66beee667dcc3475deaaea9a","body":{"code":"InvalidContent","message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66beee667dcc3475deaaea9a"},"restCode":"InvalidContent"}"
+15:20:03
+yww test0
+2024-08-16T15:10:00.000Z
+Error: 400 Bad Request: "{"jse_shortmsg":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66beee676b1d9208ba5c7bfd","jse_info":{},"message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66beee676b1d9208ba5c7bfd","body":{"code":"InvalidContent","message":"Error occurred in MainBe Can't create event: overlapping 1 existing events of the same venue; List of overlapping events: 66beee676b1d9208ba5c7bfd"},"restCode":"InvalidContent"}"
